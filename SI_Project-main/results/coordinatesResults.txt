@@ -1,0 +1,373 @@
+{
+Number of generations: 4496
+Algorithm parameters:
+    population size: 64
+    maximalDifference: 50.0
+    populationCheckCoefficient: 0.5
+    mutationProbability: 0.1
+    crossProbability: 0.45
+
+Best fitness value: 599971.0
+}
+
+{
+Number of generations: 2864
+Algorithm parameters:
+	population size: 64
+	maximalDifference: 50.0
+	populationCheckCoefficient: 0.5
+	mutationProbability: 0.1
+	crossProbability: 0.45
+
+Best fitness value: 596400.0
+}
+
+{
+Number of generations: 138
+Algorithm parameters:
+	population size: 64
+	maximalDifference: 50.0
+	populationCheckCoefficient: 0.5
+	mutationProbability: 0.1
+	crossProbability: 0.45
+
+Best fitness value: 599536.0
+}
+
+{
+Number of generations: 5778
+Algorithm parameters:
+	population size: 64
+	maximalDifference: 50.0
+	populationCheckCoefficient: 0.5
+	mutationProbability: 0.1
+	crossProbability: 0.45
+
+Best fitness value: 599815.0
+}
+
+{
+Number of generations: 3240
+Algorithm parameters:
+	population size: 64
+	maximalDifference: 50.0
+	populationCheckCoefficient: 0.5
+	mutationProbability: 0.1
+	crossProbability: 0.45
+
+Best fitness value: 599991.0
+}
+
+{
+Number of generations: 19173
+Algorithm parameters:
+	population size: 64
+	maximalDifference: 50.0
+	populationCheckCoefficient: 0.5
+	mutationProbability: 0.1
+	crossProbability: 0.45
+
+Best fitness value: 599324.0
+}
+
+{
+Number of generations: 37208
+Algorithm parameters:
+	population size: 64
+	maximalDifference: 50.0
+	populationCheckCoefficient: 0.5
+	mutationProbability: 0.1
+	crossProbability: 0.45
+
+Best fitness value: 599838.0
+}
+
+{
+Number of generations: 2964
+Algorithm parameters:
+	population size: 64
+	maximalDifference: 50.0
+	populationCheckCoefficient: 0.5
+	mutationProbability: 0.1
+	crossProbability: 0.45
+
+Best individual: G: 01110101111000000000, F: 482816, Fitness: 599840.0, ID: -742437757
+Best fitness value: 599840.0
+}
+
+{
+Number of generations: 14069
+Algorithm parameters:
+	population size: 64
+	maximalDifference: 50.0
+	populationCheckCoefficient: 0.5
+	mutationProbability: 0.1
+	crossProbability: 0.45
+
+Best individual: G: 01110110000111110011, F: 483827, Fitness: 599990.0, ID: -1529833687
+
+}
+
+{
+Number of generations: 27194
+Algorithm parameters:
+	population size: 64
+	maximalDifference: 50.0
+	populationCheckCoefficient: 0.5
+	mutationProbability: 0.1
+	crossProbability: 0.45
+
+Best individual: G: 01110111110111110010, F: 490994, Fitness: 599980.0, ID: -821022294
+}
+
+{
+Number of generations: 10393
+Algorithm parameters:
+	population size: 64
+	maximalDifference: 50.0
+	populationCheckCoefficient: 0.5
+	mutationProbability: 0.1
+	crossProbability: 0.45
+
+Best individual: G: 01111000100111110100, F: 494068, Fitness: 599951.0, ID: 160460155
+}
+
+{
+Number of generations: 8472
+Algorithm parameters:
+	population size: 64
+	maximalDifference: 50.0
+	populationCheckCoefficient: 0.5
+	mutationProbability: 0.1
+	crossProbability: 0.45
+
+Best individual: G: 01110110110111110011, F: 486899, Fitness: 599999.0, ID: 1966267209
+}
+
+{
+Number of generations: 11305
+Algorithm parameters:
+	population size: 64
+	maximalDifference: 50.0
+	populationCheckCoefficient: 0.5
+	mutationProbability: 0.1
+	crossProbability: 0.45
+
+Best individual: G: 01110110111000000110, F: 486918, Fitness: 599676.0, ID: -1028088908
+}
+
+{
+Number of generations: 22116
+Algorithm parameters:
+	population size: 64
+	maximalDifference: 50.0
+	populationCheckCoefficient: 0.5
+	mutationProbability: 0.1
+	crossProbability: 0.45
+
+Best individual: G: 01110111100111110110, F: 489974, Fitness: 599987.0, ID: -526727386
+}
+
+{
+Number of generations: 9249
+Algorithm parameters:
+	population size: 64
+	maximalDifference: 50.0
+	populationCheckCoefficient: 0.5
+	mutationProbability: 0.1
+	crossProbability: 0.45
+
+Best individual: G: 01110100101000000110, F: 477702, Fitness: 599595.0, ID: -224437420
+}
+
+{
+Number of generations: 3551
+Algorithm parameters:
+	population size: 64
+	maximalDifference: 50.0
+	populationCheckCoefficient: 0.5
+	mutationProbability: 0.1
+	crossProbability: 0.45
+
+Best individual: G: 01110111000111110100, F: 487924, Fitness: 599999.0, ID: -21262102
+}
+
+{
+Number of generations: 11677
+Algorithm parameters:
+	population size: 64
+	maximalDifference: 50.0
+	populationCheckCoefficient: 0.5
+	mutationProbability: 0.1
+	crossProbability: 0.45
+
+Best individual: G: 01110111100111110110, F: 489974, Fitness: 599987.0, ID: -526727386
+}
+
+{
+Number of generations: 3312
+Algorithm parameters:
+	population size: 64
+	maximalDifference: 50.0
+	populationCheckCoefficient: 0.5
+	mutationProbability: 0.1
+	crossProbability: 0.45
+
+Best individual: G: 01110111110111101010, F: 490986, Fitness: 599884.0, ID: -1679897072
+}
+
+{
+Number of generations: 13414
+Algorithm parameters:
+	population size: 64
+	maximalDifference: 50.0
+	populationCheckCoefficient: 0.5
+	mutationProbability: 0.1
+	crossProbability: 0.45
+
+Best individual: G: 01110110110111110011, F: 486899, Fitness: 599999.0, ID: 1966267209
+}
+
+{
+Number of generations: 10290
+Algorithm parameters:
+	population size: 64
+	maximalDifference: 50.0
+	populationCheckCoefficient: 0.5
+	mutationProbability: 0.1
+	crossProbability: 0.45
+
+Best individual: G: 10001110110111110011, F: 585203, Fitness: 590783.0, ID: -23868826
+}
+
+{
+Number of generations: 9282
+Algorithm parameters:
+	population size: 64
+	maximalDifference: 50.0
+	populationCheckCoefficient: 0.5
+	mutationProbability: 0.1
+	crossProbability: 0.45
+
+Best individual: G: 01011110110111110011, F: 388595, Fitness: 590783.0, ID: 1374971657
+}
+
+{
+Number of generations: 22625
+Algorithm parameters:
+	population size: 64
+	maximalDifference: 50.0
+	populationCheckCoefficient: 0.5
+	mutationProbability: 0.1
+	crossProbability: 0.45
+
+Best individual: G: 01110010011000000000, F: 468480, Fitness: 599532.0, ID: -1877364870
+}
+
+{
+Number of generations: 1415
+Algorithm parameters:
+	population size: 64
+	maximalDifference: 50.0
+	populationCheckCoefficient: 0.5
+	mutationProbability: 0.1
+	crossProbability: 0.45
+
+Best individual: G: 01111011010111110101, F: 505333, Fitness: 599675.0, ID: 1630460777
+}
+
+{
+Number of generations: 22333
+Algorithm parameters:
+	population size: 64
+	maximalDifference: 50.0
+	populationCheckCoefficient: 0.5
+	mutationProbability: 0.1
+	crossProbability: 0.45
+
+Best individual: G: 01111001001000000001, F: 496129, Fitness: 599750.0, ID: -562090150
+}
+
+{
+Number of generations: 27933
+Algorithm parameters:
+	population size: 64
+	maximalDifference: 50.0
+	populationCheckCoefficient: 0.5
+	mutationProbability: 0.1
+	crossProbability: 0.45
+
+Best individual: G: 01110110111000000101, F: 486917, Fitness: 599711.0, ID: -1260067894
+}
+
+{
+Number of generations: 16120
+Algorithm parameters:
+	population size: 64
+	maximalDifference: 50.0
+	populationCheckCoefficient: 0.5
+	mutationProbability: 0.1
+	crossProbability: 0.45
+
+Best individual: G: 01110011010111110101, F: 472565, Fitness: 599803.0, ID: -1900400099
+}
+
+{
+Number of generations: 924
+Algorithm parameters:
+	population size: 64
+	maximalDifference: 150.0
+	populationCheckCoefficient: 0.5
+	mutationProbability: 0.1
+	crossProbability: 0.45
+
+Best individual: G: 01111000000111101111, F: 492015, Fitness: 599950.0, ID: -164361570
+}
+
+{
+Number of generations: 906
+Algorithm parameters:
+	population size: 64
+	maximalDifference: 150.0
+	populationCheckCoefficient: 0.5
+	mutationProbability: 0.1
+	crossProbability: 0.45
+
+Best individual: G: 10000100111000000001, F: 544257, Fitness: 596695.0, ID: -1744790804
+}
+
+{
+Number of generations: 12134
+Algorithm parameters:
+	population size: 64
+	maximalDifference: 150.0
+	populationCheckCoefficient: 0.5
+	mutationProbability: 0.1
+	crossProbability: 0.45
+
+Best individual: G: 01110011110111110101, F: 474613, Fitness: 599855.0, ID: 1889072060
+}
+
+{
+Number of generations: 4076
+Algorithm parameters:
+	population size: 64
+	maximalDifference: 150.0
+	populationCheckCoefficient: 0.5
+	mutationProbability: 0.1
+	crossProbability: 0.45
+
+Best individual: G: 10000011000111111000, F: 537080, Fitness: 597583.0, ID: 1721563732
+}
+
+{
+Number of generations: 1452
+Algorithm parameters:
+	population size: 64
+	maximalDifference: 150.0
+	populationCheckCoefficient: 0.5
+	mutationProbability: 0.1
+	crossProbability: 0.45
+
+Best individual: G: 01110101000111110011, F: 479731, Fitness: 599950.0, ID: 256175198
+}
